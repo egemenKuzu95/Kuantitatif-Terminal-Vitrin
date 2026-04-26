@@ -15,19 +15,19 @@ Bu terminal; Borsa İstanbul (BİST) piyasalarındaki çok boyutlu veri setlerin
 #### Üst Segment: Veri Görselleştirme ve Dinamik Karar Ekranı
 Terminalin ana arayüzünde; hisse senedinin anlık fiyat hareketleri, sektörel görece gücü, temel analiz verileri ve algoritmanın ürettiği nihai aksiyon planı (AL / SAT / BEKLE) yer almaktadır. Bu katman, yatırımcının karmaşık piyasa verilerini tek bir bakışta anlamlandırabilmesi için optimize edilmiştir.
 
-[<img width="1919" height="892" alt="1  Ekran Görüntüsü" src="https://github.com/user-attachments/assets/ae013e5e-e1c9-4bf8-a186-2306a47a46bd" />]
+<img width="1919" height="892" alt="1  Ekran Görüntüsü" src="https://github.com/user-attachments/assets/ae013e5e-e1c9-4bf8-a186-2306a47a46bd" />
 
 #### Alt Segment: Analiz Motoru ve Puanlama Detayları
 Bu bölümde sistemin "beyni" olan hesaplama katmanı yer alır. Teknik göstergelerin (Trend, İvme, Para Akışı, Volatilite) matematiksel puanlama sonuçları ve eş zamanlı haber akışından elde edilen duyarlılık çıktıları şeffaf bir hiyerarşiyle listelenir.
 
-[<img width="1919" height="893" alt="2  Ekran Görüntüsü" src="https://github.com/user-attachments/assets/f19567e1-158d-44a3-92c4-3d3f73c07dd1" />]
+<img width="1919" height="893" alt="2  Ekran Görüntüsü" src="https://github.com/user-attachments/assets/f19567e1-158d-44a3-92c4-3d3f73c07dd1" />
 
 ---
 
 ### 2. Uygulama Örneği: DMRGD Kuantitatif Analiz Raporu
 Aşağıdaki rapor; sistemin ham piyasa verilerini nasıl işleyip somut bir stratejiye dönüştürdüğünü gösteren canlı bir örnektir. Rapor; dört ana kategorideki puanlama sonuçlarını, matematiksel model çıktısını ve dinamik risk yönetimi (Stop-Loss / Kâr Al) seviyelerini içermektedir.
 
-[<img width="2880" height="2664" alt="DMRGD IS_Denetim_Raporu" src="https://github.com/user-attachments/assets/20aeabcd-9c4d-4013-b9aa-01c21574cd36" />]
+<img width="2880" height="2664" alt="DMRGD IS_Denetim_Raporu" src="https://github.com/user-attachments/assets/20aeabcd-9c4d-4013-b9aa-01c21574cd36" />
 
 > **Not:** Yukarıdaki rapor; teknik veriler, hacim profili ve sentiment analizinin birleşiminden oluşan rasyonel bir özettir ve kesinlikle yatırım tavsiyesi içermez.
 
